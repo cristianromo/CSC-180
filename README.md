@@ -1,7 +1,7 @@
 # CSC-180
 Repository contains projects for CSC 180 (Intelligent Systems)
 
-All projects use Jupiter Notebook and done on Google Colab
+All projects use Jupyter Notebook and done on Google Colab
 
 Project 1: NLP algorithm to predict Yelp Reviews.
 Project 2: Detecting network intrusion with Neural Networks.
